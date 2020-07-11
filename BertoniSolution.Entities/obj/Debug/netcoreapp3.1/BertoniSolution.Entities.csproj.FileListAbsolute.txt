@@ -1,0 +1,9 @@
+D:\Bertoni Test Solution\BertoniSolution.Entities\bin\Debug\netcoreapp3.1\BertoniSolution.Entities.deps.json
+D:\Bertoni Test Solution\BertoniSolution.Entities\bin\Debug\netcoreapp3.1\BertoniSolution.Entities.dll
+D:\Bertoni Test Solution\BertoniSolution.Entities\bin\Debug\netcoreapp3.1\BertoniSolution.Entities.pdb
+D:\Bertoni Test Solution\BertoniSolution.Entities\obj\Debug\netcoreapp3.1\BertoniSolution.Entities.csprojAssemblyReference.cache
+D:\Bertoni Test Solution\BertoniSolution.Entities\obj\Debug\netcoreapp3.1\BertoniSolution.Entities.AssemblyInfoInputs.cache
+D:\Bertoni Test Solution\BertoniSolution.Entities\obj\Debug\netcoreapp3.1\BertoniSolution.Entities.AssemblyInfo.cs
+D:\Bertoni Test Solution\BertoniSolution.Entities\obj\Debug\netcoreapp3.1\BertoniSolution.Entities.csproj.CoreCompileInputs.cache
+D:\Bertoni Test Solution\BertoniSolution.Entities\obj\Debug\netcoreapp3.1\BertoniSolution.Entities.dll
+D:\Bertoni Test Solution\BertoniSolution.Entities\obj\Debug\netcoreapp3.1\BertoniSolution.Entities.pdb

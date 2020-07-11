@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1pFuqn4Hj9a6aOYrPXN4VqvyjkyJKZ5nCljMFwXbKudsFORTasVTL3SzXliVjZ635imMuEEAp8hRE2r4zSPGPw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SERGIO\\Source\\Repos\\BertoniSolution\\BertoniSolution.Entities\\BertoniSolution.Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SERGIO\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

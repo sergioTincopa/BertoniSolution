@@ -1,0 +1,12 @@
+D:\Bertoni Test Solution\BertoniSolution.Client\bin\Debug\netcoreapp3.1\BertoniSolution.Client.deps.json
+D:\Bertoni Test Solution\BertoniSolution.Client\bin\Debug\netcoreapp3.1\BertoniSolution.Client.dll
+D:\Bertoni Test Solution\BertoniSolution.Client\obj\Debug\netcoreapp3.1\BertoniSolution.Client.csprojAssemblyReference.cache
+D:\Bertoni Test Solution\BertoniSolution.Client\obj\Debug\netcoreapp3.1\BertoniSolution.Client.AssemblyInfoInputs.cache
+D:\Bertoni Test Solution\BertoniSolution.Client\obj\Debug\netcoreapp3.1\BertoniSolution.Client.AssemblyInfo.cs
+D:\Bertoni Test Solution\BertoniSolution.Client\bin\Debug\netcoreapp3.1\BertoniSolution.Client.pdb
+D:\Bertoni Test Solution\BertoniSolution.Client\bin\Debug\netcoreapp3.1\BertoniSolution.Entities.dll
+D:\Bertoni Test Solution\BertoniSolution.Client\bin\Debug\netcoreapp3.1\BertoniSolution.Entities.pdb
+D:\Bertoni Test Solution\BertoniSolution.Client\obj\Debug\netcoreapp3.1\BertoniSolution.Client.csproj.CoreCompileInputs.cache
+D:\Bertoni Test Solution\BertoniSolution.Client\obj\Debug\netcoreapp3.1\BertoniSolution.Client.csproj.CopyComplete
+D:\Bertoni Test Solution\BertoniSolution.Client\obj\Debug\netcoreapp3.1\BertoniSolution.Client.dll
+D:\Bertoni Test Solution\BertoniSolution.Client\obj\Debug\netcoreapp3.1\BertoniSolution.Client.pdb

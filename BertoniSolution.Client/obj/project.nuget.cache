@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "hkUQWO+F06mZgRaXHt11DlqMfbkn0lTGyt656Eyli1Uba2Q62tlaWlWnzQ6BInK1wZ3ON0BSsLzu2vGmgaLyag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SERGIO\\Source\\Repos\\BertoniSolution\\BertoniSolution.Client\\BertoniSolution.Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SERGIO\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\SERGIO\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

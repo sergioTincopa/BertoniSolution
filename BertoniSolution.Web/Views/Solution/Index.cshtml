@@ -1,0 +1,73 @@
+﻿@model SolutionModel
+@{
+    ViewData["Title"] = "Solution Web";
+}
+
+@using BertoniSolution.Web.Models
+
+<div id="filtros-table">
+    <div>
+        <div>
+            <div>
+                <h5>@ViewData["Title"]</h5>
+            </div>
+            <br />
+            <br />
+            <div>
+                <div class="row">
+                    <div class="col-md-3 form-control-label">Album</div>
+                    <div class="col-md-6">
+                        <select class="form-control" name="Album" id="Album">
+                            <option value="">--Select--</option>
+                        </select>
+                    </div>
+                    <div class="col-md-3">
+                        <button type="button" class="btn btn-success" id="btnGetPhotos">Visualizar Álbum</button>
+                    </div>
+                </div>
+                <br />
+            </div>
+            <div id="div_photos">
+                <table id="tblPhotos" class="table table-striped table-bordered table-hover text-sm" style="width:100%;" align="left">
+                    <thead>
+                        <tr>
+                            <th>Id</th>
+                            <th>Title</th>
+                            <th>Url</th>
+                            <th>Thumbnail Url</th>
+                            <th></th>
+                        </tr>
+                    </thead>
+                </table>
+            </div>
+            <br />
+            <div id="div_comments">
+                <table id="tblComments" class="table table-striped table-bordered table-hover text-sm" style="width:100%;" align="left">
+                    <thead>
+                        <tr>
+                            <th>Id</th>
+                            <th>Name</th>
+                            <th>Email</th>
+                            <th>Body</th>
+                        </tr>
+                    </thead>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+@{
+    <script type="text/javascript" src="https://cdn.datatables.net/1.10.21/css/jquery.dataTables.min.css"></script>
+    <script type="text/javascript" src="https://cdn.datatables.net/1.10.21/js/jquery.dataTables.min.js"></script>
+    <script type="text/javascript" src="~/js/script-solution.js"></script>
+    <script type="text/javascript">
+        let objComments = document.getElementById('div_comments');
+        objComments.style.display = 'none';
+
+        solution.LoadTablePhotos();
+        solution.LoadTableComments();
+        solution.loadComboAlbum();
+        solution.onAlbumButtonClick();
+    </script>
+}
